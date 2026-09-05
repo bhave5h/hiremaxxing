@@ -1,0 +1,200 @@
+[
+  {
+    "id": "gig-1",
+    "title": "Brand Identity & Guidelines for AI Developer Platform",
+    "company": "Cortex Labs",
+    "category": "Design",
+    "type": "Fixed Project",
+    "budget": "$2,500 – $4,000",
+    "duration": "3-4 weeks",
+    "location": "Remote",
+    "postedAt": "2 hours ago",
+    "urgency": "Hiring Urgently",
+    "description": "Looking for a seasoned visual designer to establish complete brand positioning, color tokens, typography scales, dark/light theme assets, and logo suite for our developer tools platform.",
+    "deliverables": [
+      "Full vector logo mark and wordmark variations",
+      "Comprehensive typography & color style guide in Figma",
+      "Component tokens and exported SVG assets",
+      "Social preview templates and marketing icon suite"
+    ],
+    "skills": ["Branding", "Graphic Design", "Typography", "Figma", "Design Systems"],
+    "poster": {
+      "id": "poster-1",
+      "name": "Arjun Mehta",
+      "role": "Founder & CEO",
+      "company": "Cortex Labs",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80",
+      "verified": true,
+      "responseTime": "Typically replies in ~15 mins",
+      "status": "online",
+      "whatsapp": "+919876543210",
+      "email": "arjun@cortexlabs.ai",
+      "initialGreeting": "Hey there! Thanks for checking out our Cortex Labs gig. We are moving fast to lock down our visual identity before our public launch next month. Share a link to your recent brand systems work!"
+    }
+  },
+  {
+    "id": "gig-2",
+    "title": "Next.js 16 & Tailwind Real-Time Fleet Dashboard",
+    "company": "FleetPulse",
+    "category": "Engineering",
+    "type": "Contract",
+    "budget": "$45 – $75 / hr",
+    "duration": "2 months",
+    "location": "Remote (Any timezone)",
+    "postedAt": "4 hours ago",
+    "urgency": "Actively Reviewing",
+    "description": "Build an ultra-responsive logistics telemetry dashboard with real-time map visualizations, driver stats, and accessible data tables. All designs and specs are ready in Figma.",
+    "deliverables": [
+      "App Router page architecture with server components",
+      "Interactive data tables with sort, filter, and pagination",
+      "WebSocket streaming connection for vehicle coordinate updates",
+      "Clean TypeScript definitions and Turbopack build optimization"
+    ],
+    "skills": ["Frontend Development", "Next.js", "React 19", "TypeScript", "TailwindCSS"],
+    "poster": {
+      "id": "poster-2",
+      "name": "Sarah Jenkins",
+      "role": "Head of Product",
+      "company": "FleetPulse",
+      "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=300&auto=format&fit=crop&q=80",
+      "verified": true,
+      "responseTime": "Typically replies in ~30 mins",
+      "status": "online",
+      "whatsapp": "+14155552671",
+      "email": "sarah.jenkins@fleetpulse.io",
+      "initialGreeting": "Hi! We're looking for a sharp Next.js frontend dev who loves polished UI states and crisp component architecture. What's your current availability for a 20-30 hr/wk contract?"
+    }
+  },
+  {
+    "id": "gig-3",
+    "title": "Photorealistic 3D Product Animations & Exploded Views",
+    "company": "Aura Sound",
+    "category": "3D & Motion",
+    "type": "Fixed Project",
+    "budget": "$1,800 – $3,200",
+    "duration": "2 weeks",
+    "location": "Remote",
+    "postedAt": "Yesterday",
+    "urgency": "Featured",
+    "description": "Seeking an experienced 3D motion designer to render studio-lit product turnarounds and exploded mechanical views for our flagship wireless planar headphones.",
+    "deliverables": [
+      "4K seamless 360-degree turntable animation loops",
+      "Exploded internal acoustic driver assembly breakdown",
+      "Transparent WebM and MP4 optimized video assets",
+      "Final Blender / Cinema4D project source files"
+    ],
+    "skills": ["3D Design", "Blender", "Motion Design", "Cinema4D", "Product Rendering"],
+    "poster": {
+      "id": "poster-3",
+      "name": "Marcus Vance",
+      "role": "Creative Director",
+      "company": "Aura Sound",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&auto=format&fit=crop&q=80",
+      "verified": true,
+      "responseTime": "Replies within 1 hour",
+      "status": "online",
+      "whatsapp": "+447700900123",
+      "email": "marcus@aurasound.io",
+      "initialGreeting": "Hello! We have CAD models ready in STEP/OBJ format and need premium Apple-grade lighting and materials. Drop a link to your 3D motion showreel!"
+    }
+  },
+  {
+    "id": "gig-4",
+    "title": "Cross-Platform Mobile App MVP (React Native & Supabase)",
+    "company": "Kinetic Health",
+    "category": "Mobile",
+    "type": "Contract",
+    "budget": "$3,500 – $5,000",
+    "duration": "4 weeks",
+    "location": "Remote",
+    "postedAt": "1 day ago",
+    "urgency": "Actively Reviewing",
+    "description": "Develop our iOS and Android MVP for guided habit formation, daily biometric tracking, and offline data sync. Backend APIs and DB schemas are already deployed on Supabase.",
+    "deliverables": [
+      "Expo / React Native cross-platform application code",
+      "Supabase Auth & Row Level Security data hooks",
+      "Offline SQLite cache and background synchronization",
+      "App Store and Google Play internal test track submission"
+    ],
+    "skills": ["React Native", "Expo", "TypeScript", "Supabase", "Mobile UX"],
+    "poster": {
+      "id": "poster-4",
+      "name": "Priya Nair",
+      "role": "Co-founder & CTO",
+      "company": "Kinetic Health",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=300&auto=format&fit=crop&q=80",
+      "verified": true,
+      "responseTime": "Typically replies in ~20 mins",
+      "status": "online",
+      "whatsapp": "+919811223344",
+      "email": "priya@kinetichealth.app",
+      "initialGreeting": "Hey! We're building a seamless wellness tracking app and looking for a mobile engineer with Expo & Supabase experience. When could you kick off?"
+    }
+  },
+  {
+    "id": "gig-5",
+    "title": "Interactive WebGL Landing Page & Micro-interactions",
+    "company": "Studio Vertex",
+    "category": "Engineering",
+    "type": "Fixed Project",
+    "budget": "$2,200 – $3,600",
+    "duration": "2-3 weeks",
+    "location": "Remote",
+    "postedAt": "2 days ago",
+    "urgency": "Featured",
+    "description": "Looking for a creative developer capable of crafting subtle Three.js / Three Fiber interactive canvas background effects and physics-driven scroll transitions for a luxury design agency site.",
+    "deliverables": [
+      "Lightweight interactive WebGL particle sphere mesh",
+      "GSAP ScrollTrigger timeline transitions",
+      "Mobile fallback shader with zero frame drops (60 FPS)",
+      "Accessible reduced-motion toggles and clean clean code"
+    ],
+    "skills": ["Three.js", "WebGL", "GSAP", "Creative Development", "React"],
+    "poster": {
+      "id": "poster-5",
+      "name": "Elena Rostova",
+      "role": "Design Director",
+      "company": "Studio Vertex",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=300&auto=format&fit=crop&q=80",
+      "verified": true,
+      "responseTime": "Replies within 2 hours",
+      "status": "away",
+      "whatsapp": "+33612345678",
+      "email": "elena@studiovertex.design",
+      "initialGreeting": "Bonjour! We are designing a high-concept portfolio and need a creative technologist who treats code like craft. What are your favorite shaders or interactive sites you've built?"
+    }
+  },
+  {
+    "id": "gig-6",
+    "title": "Growth Marketing Visual Assets & Ad Creatives",
+    "company": "Prism Protocol",
+    "category": "Marketing",
+    "type": "Part-time",
+    "budget": "$1,500 – $2,500 / mo",
+    "duration": "Ongoing retainer",
+    "location": "Remote",
+    "postedAt": "3 days ago",
+    "urgency": "Actively Reviewing",
+    "description": "Design high-converting performance marketing creatives, LinkedIn carousel decks, Twitter visual teasers, and newsletter graphics for our fintech protocol.",
+    "deliverables": [
+      "10-15 static and motion ad creatives per month",
+      "Figma template kit for fast internal content generation",
+      "Brand-aligned infographics explaining decentralized liquidity",
+      "Continuous A/B test variation iterations"
+    ],
+    "skills": ["Graphic Design", "Ad Creatives", "Figma", "Motion Graphics", "Content Strategy"],
+    "poster": {
+      "id": "poster-6",
+      "name": "David O'Connor",
+      "role": "Head of Growth",
+      "company": "Prism Protocol",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=300&auto=format&fit=crop&q=80",
+      "verified": true,
+      "responseTime": "Typically replies in ~45 mins",
+      "status": "online",
+      "whatsapp": "+14159876543",
+      "email": "david@prismprotocol.xyz",
+      "initialGreeting": "Hey! Looking for a designer with taste who understands conversion funnels and product storytelling. Do you have examples of performance ad creative or carousel decks?"
+    }
+  }
+]

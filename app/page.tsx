@@ -3,6 +3,7 @@
 import { useState } from "react";
 import Hero from "@/components/Hero";
 import TalentGrid from "@/components/TalentGrid";
+import GigsSection from "@/components/GigsSection";
 import About from "@/components/About";
 import { allTalents } from "@/lib/search";
 
@@ -30,6 +31,7 @@ export default function HomePage() {
         searchQuery={searchQuery}
         onClearSearch={() => setSearchQuery("")}
       />
+      <GigsSection />
       <About />
     </>
   );
