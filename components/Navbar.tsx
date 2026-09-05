@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { usePathname } from "next/navigation";
 import { SignInButton, Show, UserButton } from "@clerk/nextjs";
 
@@ -16,8 +17,16 @@ export default function Navbar() {
     <header className="sticky top-0 z-50 w-full border-b border-neutral-200 bg-white/95 backdrop-blur-sm">
       <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4">
         {/* Left: Brand Logo / Text */}
-        <Link href="/" className="text-xl font-bold tracking-tight text-black hover:opacity-80 transition-opacity">
-          Hiremaxxing
+        <Link href="/" className="flex items-center gap-2.5 text-xl font-bold tracking-tight text-black hover:opacity-80 transition-opacity">
+          <Image
+            src="/logo.png"
+            alt="Hiremaxxing Logo"
+            width={26}
+            height={26}
+            priority
+            className="object-contain"
+          />
+          <span>Hiremaxxing</span>
         </Link>
 
         {/* Right: Auth Controls */}

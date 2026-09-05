@@ -32,9 +32,18 @@ export default function Footer() {
       <div className="mx-auto max-w-7xl w-full px-6 pt-20 sm:pt-28">
         <div className="flex flex-col md:flex-row md:items-start justify-between gap-10">
           <div className="max-w-xl space-y-4">
-            <span className="text-xs font-semibold uppercase tracking-widest text-neutral-500">
-              The Talent Discovery Platform
-            </span>
+            <div className="flex items-center gap-2.5">
+              <Image
+                src="/logo.png"
+                alt="Hiremaxxing"
+                width={32}
+                height={32}
+                className="object-contain"
+              />
+              <span className="text-xs font-semibold uppercase tracking-widest text-neutral-500">
+                The Talent Discovery Platform
+              </span>
+            </div>
             <h2 className="text-4xl sm:text-6xl font-bold tracking-tight text-black">
               Find the people who can build it.
             </h2>
@@ -95,6 +104,13 @@ export default function Footer() {
       <div className="mx-auto max-w-7xl w-full px-6 pb-10 sm:pb-12">
         <div className="rounded-2xl border border-white/60 bg-white/85 backdrop-blur-md shadow-lg p-5 sm:px-8 sm:py-5 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-neutral-700">
           <div className="flex items-center gap-2">
+            <Image
+              src="/logo.png"
+              alt="Hiremaxxing"
+              width={20}
+              height={20}
+              className="object-contain"
+            />
             <span className="font-semibold text-black text-sm">Hiremaxxing</span>
             <span className="text-neutral-400">·</span>
             <span>© 2026 All rights reserved.</span>

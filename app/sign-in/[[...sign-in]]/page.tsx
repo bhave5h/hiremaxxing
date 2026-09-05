@@ -21,7 +21,16 @@ export default function SignInPage() {
       />
 
       <div className="relative z-10 flex flex-col items-center">
-        <div className="text-center mb-6 max-w-sm">
+        <div className="text-center mb-6 max-w-sm flex flex-col items-center">
+          <div className="relative h-12 w-12 mb-2.5 drop-shadow-sm">
+            <Image
+              src="/logo.png"
+              alt="Hiremaxxing Logo"
+              fill
+              priority
+              className="object-contain"
+            />
+          </div>
           <h1 className="heading-md text-black">Welcome to Hiremaxxing</h1>
           <p className="body-sm text-neutral-700 mt-1.5 font-medium">
             Sign in to discover freelancers and connect directly.
